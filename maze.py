@@ -8,7 +8,7 @@ text=font.render('YOU WON',True,(111,222,222))
 
 
 window = display.set_mode((win_width, win_height))
-display.set_caption("Maze")
+display.set_caption("Maze99")
 background = transform.scale(image.load("background.jpg"), (win_width, win_height))
 
 class Sprite(sprite.Sprite):
